@@ -1,0 +1,14 @@
+Cuanto estamos trabajando en un archivo de javascript y se abre y ejecuta en el navegador
+Se abre el scope.
+
+Existe el scope global y el scope Local.
+
+En el scope global existen las variables, validaciones y funciones que tengamos.
+
+Una vez que inicialicemos esa función, lo que hay dentro se llama Scope Local.
+
+Todo lo que esta en global no puede acceder a lo que esta en global. Si en el scope global
+pongo la variable apellido, no lo va a encontrar. En cambio si pongo la varibale en el local, lo va a 
+encontrar sin problema. 
+
+Lo que esta en local puede acceder a global pero no al reves. 
