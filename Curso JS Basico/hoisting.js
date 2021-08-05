@@ -23,3 +23,8 @@ LOS RESULTADOS. PODEMOS IMPRIMIR VARIABLES, FUNCIONES, MUCHAS COSAS. HACE QUE PO
 var miNombre = "José";
 
 console.log(miNombre);
+
+hey ();
+
+function hey() {
+    console.log("Hola"
